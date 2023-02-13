@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+font-family: 'Roboto Condensed', sans-serif;
+}
+nav{
+    background-color: rgba(168, 55, 55, 0.141);
+}
+.hero{
+    height: 100vh;
+    background-image: url(./img/desktop-wallpaper-aesthetic-tumblr-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-z48uh.webp);
+    background-size: cover;
+}
+.form-section{
+    max-width: 50%;
+    height: 400px;
+    display: flex;
+    padding: 2em;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(168, 55, 55, 0.141);
+}
+/* .abc{
+    background-color: brown;!important
+} */
+.hero{
+    display: flex;
+}
+.text-section{
+    width: 50%;
+    padding-top: 6em;
+    text-align: center;
+    padding-right: 5em;
+    
+}
+.text-section h1{
+   font-size: 70px;
+   letter-spacing: 6px;
+}
+.pics{
+    background-color:#55012F;
+    padding: 1em;
+    
+}
